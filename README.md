@@ -1,5 +1,5 @@
 # CLI-Dictionary-app
-This is a CLI based dictionary app.
+This is a CLI based dictionary app.   
 This was created during my time as a student at [Build@Mercari 2020](https://mercan.mercari.com/articles/19631/) Week3.
 ## Demo
 <img src="https://user-images.githubusercontent.com/56245555/84596325-f57b1380-ae97-11ea-8180-baa0b3319dda.gif" width="700px">
